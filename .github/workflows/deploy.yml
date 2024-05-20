@@ -51,4 +51,4 @@ jobs:
           files: "*.mrpack"
           loaders: fabric
           game-versions: ${{ vars.MC_VERSION }}
-          changelog: "Changelog: https://github.com/RWolfyo/winters-tweaks/releases/tag/${{ steps.version.outputs.date }}/"
+          changelog: "Changelog: https://www.github.com/RWolfyo/winters-tweaks/releases/tag/${{ steps.version.outputs.date }}/"
