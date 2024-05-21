@@ -518,6 +518,11 @@ hash = "89d0605e73d81cd1d346e84fcb0daa37169f3aa61e95e306462f4581def43912"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "862b6109c5cdd682b9dc81cd343b80d908dcfb6b48b11dfde49a0c36fff3ae40"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "c16e5515c9578fb21ede824ddc04c155687e64f905501648120b89f7669d57d1"
 metafile = true
@@ -553,8 +558,18 @@ hash = "c190e3b4f36f65c9c6ce72beb5f9760fa9c3793be2fa956e09d99fbbaeef6aaa"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "7f148daee130716f4c5160113e635a6d067c28944994f84d2471beba4d9c2842"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.pw.toml"
+hash = "4a3880b8d1c41108f688db0e4c4d7cdd8d5abd27e3bcb72c4b131b5c8b63c4b8"
 metafile = true
 
 [[files]]
