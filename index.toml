@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
+hash = "2be3635a0b6d46cbe9dead49d8b9a31a7e0ff3426b18623455e4a49bc7720cf3"
 metafile = true
 
 [[files]]
@@ -370,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "46775cb51714cb624ab336889c25c29945998c67b8f32f8fb11e9fb7ecf50c67"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "1ec61a0b81150becbb6743bd4ff9251bc74d4eec0613898304ec614733318221"
 metafile = true
 
 [[files]]
@@ -523,13 +528,18 @@ hash = "862b6109c5cdd682b9dc81cd343b80d908dcfb6b48b11dfde49a0c36fff3ae40"
 metafile = true
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+hash = "52a2bff89d0e2d2ba6001f8598837208885f55badd8a85d32cdad892be7e6ec2"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "c16e5515c9578fb21ede824ddc04c155687e64f905501648120b89f7669d57d1"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b45be2af8beef3e632a89482ca4a11028d89bc063ca282c112ee69e886992d43"
+hash = "b802b607dc76cbaba1cbf085be896d2c6996bef39b64a09fcf5ddb8b6a0ad968"
 metafile = true
 
 [[files]]
@@ -599,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "c0df3db75a77deac6650d1718fdb63a1612307ed663bfa37c90918608b4c27dd"
+hash = "50c7a9d1825bdf0579a4a1e76587db455f0f0dc224543900b118d7c5349c4c03"
 metafile = true
 
 [[files]]
