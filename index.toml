@@ -686,3 +686,7 @@ metafile = true
 file = "resourcepacks/xk-redstone-display.pw.toml"
 hash = "543bcafcd56efc6a9d191f3d84749f49d8a627c87455e1939c3e31ae0494b617"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "f06098523143d2cea87b2be74b57ffe695f1855904fa8a67926ba0c66491bf1c"
