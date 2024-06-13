@@ -203,6 +203,11 @@ hash = "709554406c3504f85c70f718d3a966839ca0b98d848f3e128879885c11f01631"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "194d90a17e46625efdbb720de99ffdb1319015d3618ec478a38927faf490f16c"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
 metafile = true
@@ -230,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "5bb26fb13d301df2d75c93893ca7adb6ff0cc23a20a83bc2aa6016be13cfc50d"
 metafile = true
 
 [[files]]
